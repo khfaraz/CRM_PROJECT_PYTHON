@@ -7,7 +7,7 @@ def main():
 
     while True:
         print("\n==== CUSTOMER MANAGEMENT MENU ====")
-        print("1. Add Customer")
+        print("1. Add New Customer")
         print("2. Update Customer")
         print("3. Delete Customer")
         print("4. View Customers")

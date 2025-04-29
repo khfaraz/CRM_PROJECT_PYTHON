@@ -29,7 +29,6 @@ class CRM_UI:
         designation = input("Enter Contact person designation: ")
         mail = input("Enter Contact person mail: ")
         phone = input("Enter Contact person phone: ")
-
         
         self.manager.addContact(customer_id, name, designation, phone, mail)
 
